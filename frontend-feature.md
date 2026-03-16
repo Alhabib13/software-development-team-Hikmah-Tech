@@ -1,5 +1,5 @@
 Frontend Architect & Experience Engineer
-Iklima Fajrih – Frontend Developer & UI/UX Implementer. Bertanggung jawab sebagai ujung tombak dalam menghadirkan antarmuka yang intuitif dan performa visual yang responsif. Peran utama meliputi:
+Iklima Fajri – Frontend Developer & UI/UX Implementer. Bertanggung jawab sebagai ujung tombak dalam menghadirkan antarmuka yang intuitif dan performa visual yang responsif. Peran utama meliputi:
 
 Interface Orchestration
 Mentransformasi desain high-fidelity menjadi kode yang bersih, modular, dan reusable, memastikan setiap elemen visual selaras dengan identitas brand dan standar aksesibilitas.
