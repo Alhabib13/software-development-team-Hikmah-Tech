@@ -1,14 +1,15 @@
 Frontend Architect & Experience Engineer
-Iklima Fajrih – Frontend Developer & UI/UX Implementer. Bertanggung jawab sebagai ujung tombak dalam menghadirkan antarmuka yang intuitif dan performa visual yang responsif. Peran utama meliputi:
+Iklima Fajri – Frontend Developer & UI/UX Implementer. 
+Bertanggung jawab dalam menghadirkan tampilan aplikasi yang menarik, mudah digunakan, dan nyaman bagi pengguna. Peran utama meliputi:
 
-Interface Orchestration
-Mentransformasi desain high-fidelity menjadi kode yang bersih, modular, dan reusable, memastikan setiap elemen visual selaras dengan identitas brand dan standar aksesibilitas.
+Pengembangan Tampilan Antarmuka
+Mengubah desain yang telah dibuat menjadi tampilan aplikasi yang rapi, konsisten, dan mudah dipahami oleh pengguna, sehingga setiap fitur dapat digunakan dengan jelas dan efektif.
 
-Client-Side Optimization
-Menjamin kecepatan rendering dan performa aplikasi di sisi pengguna dengan menerapkan strategi lazy loading, caching, dan manajemen aset yang efisien untuk meminimalkan latensi.
+Optimalisasi Pengalaman Pengguna
+Memastikan aplikasi dapat digunakan dengan cepat dan responsif, sehingga pengguna tidak mengalami keterlambatan saat membuka halaman atau menggunakan fitur.
 
-State & Data Synchronization
-Mengelola aliran data kompleks pada sisi klien (State Management) agar sinkron dengan layanan backend, memastikan transisi antar halaman berjalan mulus tanpa hambatan (Seamless UX).
+Pengelolaan Alur Data pada Tampilan
+Mengatur bagaimana data ditampilkan pada aplikasi agar tetap sinkron dengan sistem di belakangnya, sehingga informasi yang muncul selalu akurat dan mudah diakses.
 
-Multi-Platform Adaptability
-Memastikan aplikasi berjalan dengan sempurna di berbagai perangkat dan peramban (Cross-browser Compatibility), dengan fokus pada responsivitas tingkat tinggi untuk pengalaman pengguna yang konsisten.
+Responsivitas dan Kompatibilitas
+Memastikan tampilan aplikasi dapat berjalan dengan baik di berbagai perangkat seperti laptop, tablet, maupun ponsel, serta tetap berfungsi dengan baik di berbagai browser.
