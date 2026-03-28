@@ -1,8 +1,6 @@
 Alvania Aisyah Nur Fadhlilah – Backend Developer. Fokus pada stabilitas sistem, keamanan, dan efisiensi data. Peran utama:
-
 Database Management
 Merancang skema data yang efisien dan memastikan sinkronisasi data berjalan lancar secara real-time.
-
 API & Logic Integration
 Membangun logika server dan menyediakan endpoint API sebagai jembatan komunikasi antar sistem.
 
